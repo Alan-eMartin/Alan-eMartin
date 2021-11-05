@@ -8,13 +8,6 @@ I specialize in the M.E.R.N stack primarily, but always enjoy expanding my knowl
 
 In my spare time you will find me a my local skatepark, cooking at home or walking the streets taking photos.
 
-### Let's Connect
-
-[<img align="left" alt="Twitter" width="22px" src="./assets/twitter-brands.svg"/>]('https://twitter.com/alanMartinCodes')
-[<img align="left" style="margin:0 10px" alt="Twitter" width="22px" src="./assets/medium-brands.svg"/>]('https://medium.com/@alan.edward.martin')
-[<img align="left" alt="Twitter" width="22px" src="./assets/globe-solid.svg"/>]('https://alan-martin.dev/')
-<br/>
-
 ### Languages / Skills
 
 - React
