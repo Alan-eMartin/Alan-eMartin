@@ -2,7 +2,7 @@
 
 ## What I have worked with -
 
-- React JS & Next JS
+- React JS, Next JS, Gatsby
 - Typescript
 - Node JS
 - Redux
