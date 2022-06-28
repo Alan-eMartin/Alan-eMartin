@@ -20,7 +20,19 @@
 ## What I am currently learning / working on -
 
 ### Personal Project -
-- Messing around with Next, GQL, postgresQL, Nexus, Apollo/Prisma, and Tailwind!
+[Link App](https://github.com/Alan-eMartin/link-app)
+
+I want to build a linkTree clone using:
+
+- NextJS
+- Apollo
+- GraphQL
+- NexusJS
+- NextAuth
+- TailwindCSS
+- Possibly FramerMotion
+
+Currently implementing `apollo-server-micro` and 'nexus`
 
 ### Resdesign of Portfolio
 - Recreate and redesign my my portfolio using either Gatsby or Next JS
