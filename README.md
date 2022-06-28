@@ -32,7 +32,7 @@ I want to build a linkTree clone using:
 - TailwindCSS
 - Possibly FramerMotion
 
-Currently implementing `apollo-server-micro` and 'nexus`
+Currently implementing `apollo-server-micro` and `nexus`
 
 ### Resdesign of Portfolio
 - Recreate and redesign my my portfolio using either Gatsby or Next JS
