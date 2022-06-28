@@ -20,8 +20,7 @@
 ## What I am currently learning / working on -
 
 ### Personal Project -
-- I am currently learning how to create a GraphQL data base for a personal project w/ Apollo, Prisma & postgresSQL!
-- The graphQl api will be consumed by a Next JS frontend.
+- Messing around with Next, GQL, postgresQL, Nexus, Apollo/Prisma, and Tailwind!
 
 ### Resdesign of Portfolio
 - Recreate and redesign my my portfolio using either Gatsby or Next JS
