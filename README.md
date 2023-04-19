@@ -1,6 +1,6 @@
 # Hi, I am Alan! A Software Developer from Toronto Canada!
 
-## What I have worked with:
+## What I have worked with
 
 - Typescript
 - NodeJS
@@ -15,7 +15,7 @@
 - Express
 - & More!
 
-## What I am learning!
+## What I am learning
 
 I am currently learning the fundementals of Rust, and am reading through **0 to Production, Rust** by Luca Palmieri.
 
