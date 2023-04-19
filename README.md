@@ -18,7 +18,7 @@
 
 I am currently learning the fundementals of Rust, and am reading through **0 to Production, Rust** by Luca Palmieri.
 
-With this I hope to expand my skills of the backend to from NodeJS to rust, and learn many of the best practices highlighted in the book.
+With this I hope to expand my skills of the backend from NodeJS to rust, and learn many of the best practices highlighted in the book.
 
 ## Facts about ME
 
