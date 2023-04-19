@@ -25,8 +25,8 @@ With this I hope to expand my skills of the backend from NodeJS to rust, and lea
 
 - I trained as a chef for 8 years before transitioning into code.
 - Bonified cat person!
-- Practiced photograph and colour/B&W film development for 15+ years
-- Avid skateboarder even at the painful age of 33!
+- Practiced photography and colour/B&W film development for 15+ years
+- Avid skateboarder even at the painful age of 33! (as of 2023)
 
 ### Thanks for checking out my profile!
 
