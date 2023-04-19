@@ -1,51 +1,33 @@
-# Hi, I'm Alan! A Full Stack Developer from Toronto Canada!
+# Hi, I am Alan! A Software Developer from Toronto Canada!
 
-## What I have worked with -
+## What I have worked with:
 
-- React JS, Next JS, Gatsby
-- Typescript
-- Node JS
+- NodeJS
+- React, NextJS etc.
 - Redux
-- Context
+- React Query
+- PostgresSQL
 - MongoDB
-- Mongoose
-- Express JS
-- Various CMS services including _Contentful, Sanity, and Strapi
-- GraphQl, GROQ querying languages
-- Figma
-- Jira
+- TypeORM
+- GraphQL & Rest
+- NestJS
+- Express
+- & More!
 
-& More!
+## What I am learning!
 
-## What I am currently learning / working on -
+I am currently learning the fundementals of Rust, and am reading through **0 to Production, Rust** by Luca Palmieri.
 
-### Personal Project -
-[Link App](https://github.com/Alan-eMartin/link-app)
+With this I hope to expand my skills of the backend to from NodeJS to rust, and learn many of the best practices highlighted in the book.
 
-I want to build a linkTree clone using:
+## Facts about ME
 
-- NextJS
-- Apollo
-- GraphQL
-- NexusJS
-- NextAuth
-- TailwindCSS
-- Possibly FramerMotion
+- I trained as a chef for 8 years before transitioning into code.
+- Bonified cat person!
+- Practiced photograph and colour/B&W film development for 15+ years
+- Avid skateboarder even at the painful age of 33!
 
-Currently implementing `apollo-server-micro` and `nexus`
+### Thanks for checking out my profile!
 
-### Resdesign of Portfolio
-- Recreate and redesign my my portfolio using either Gatsby or Next JS
-- Use Sanity as the CMS
-- Redesign and Template with Figma
-- Learn one of the following animation libs - GreenSock, Framer, or React Spring.
-
-## Links - check em out!
-
-- [Twitter](https://www.twitter.com/@alanMartinCodes)
-- [Medium](https://medium.com/@alan.edward.martin)
-- [LinkedIn](https://www.linkedin.com/in/alan-martin-2426b461/)
-
-### Thanks for dropping by and feel free to give me a follow, or connect via Twitter, and LinkedIn
 
 
