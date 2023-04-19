@@ -2,6 +2,7 @@
 
 ## What I have worked with:
 
+- Typescript
 - NodeJS
 - React, NextJS etc.
 - Redux
