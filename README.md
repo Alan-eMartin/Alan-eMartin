@@ -21,6 +21,10 @@ I am currently learning the fundementals of Rust, and am reading through **0 to 
 
 With this I hope to expand my skills of the backend from NodeJS to rust, and learn many of the best practices highlighted in the book.
 
+#### Project Ideas:
+- CMD Line Quest game
+- Rest API
+
 ## Facts about ME
 
 - I trained as a chef for 8 years before transitioning into code.
