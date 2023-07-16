@@ -13,6 +13,7 @@
 - GraphQL & Rest
 - NestJS
 - Express
+- Astro
 - & More!
 
 ## What I am learning
