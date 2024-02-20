@@ -1,11 +1,12 @@
 <!-- My GH profile -->
-# Hi, I'm [Alan](https://alanmart.in) 👋
- 
-I am a software developer from Toronto, Canada. I am currently work at [Xanadu AI](https://xanadu.ai) as a front-end developer.
+# Hi, I'm [Alan](https://alanmart.in)! 👋
 
-I have been lucky enough to work across the stack, from front-end to back-end at many early-stage startups. I am passionate about building products that are simple, intuitive, and accessible.
+I'm a software developer based in Toronto, Canada, and I currently work at [Xanadu AI](https://xanadu.ai) as a front-end developer.
 
-Before transitioning to tech, I worked in the world of fine-dining as a Chef. I have a passion for food, and I love to cook. I also enjoy skateboarding, playing video games, and spending time with my wife and three cats 🐈.
+I've had the opportunity to work across the stack, from front-end to back-end, at various early-stage startups. I'm passionate about crafting products that are simple, intuitive, and accessible.
+
+Before transitioning to tech, I worked in the world of fine dining as a Chef. I have a passion for food, and I love to cook. Outside of work, you'll find me skateboarding, playing video games, or spending time with my wife and three cats. 🐈
+
 
 <!-- Socials -->
 *Let's connect!* 🤝
