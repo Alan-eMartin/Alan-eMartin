@@ -7,7 +7,7 @@ I've had the opportunity to work across the stack, from front-end to back-end, a
 
 Before transitioning to tech, I worked in the world of fine dining as a Chef. I have a passion for food, and I love to cook. Outside of work, you'll find me skateboarding, playing video games, or spending time with my wife and three cats. 🐈
 
-<img src="https://cdn.sanity.io/images/blc7b9s6/production/b05c62bf7e7471abe599d47435e12ded707ee71d-1189x772.png" alt="three cats" />
+<img width="10%" src="https://cdn.sanity.io/images/blc7b9s6/production/b05c62bf7e7471abe599d47435e12ded707ee71d-1189x772.png" alt="three cats" />
 
 
 <!-- Socials -->
