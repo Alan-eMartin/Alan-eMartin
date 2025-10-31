@@ -16,9 +16,6 @@ Before transitioning to tech, I worked in the world of fine dining as a Chef. I 
   <a href="https://alanmart.in">
     <img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://twitter.com/alanMartinCodes">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://ca.linkedin.com/in/alan-martin-2426b461">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
