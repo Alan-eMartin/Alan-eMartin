@@ -1,7 +1,7 @@
 <!-- My GH profile -->
 # Hi, I'm [Alan](https://alanmart.in)! 👋
 
-I'm a software developer based in Toronto, Canada, and I currently work at [Xanadu AI](https://xanadu.ai) as a front-end developer.
+I'm a software developer based in Toronto, Canada.
 
 I've had the opportunity to work across the stack, from front-end to back-end, at various early-stage startups. I'm passionate about crafting products that are simple, intuitive, and accessible.
 
